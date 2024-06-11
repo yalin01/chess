@@ -1,0 +1,6 @@
+Download Chess_V1.0_src.tar.gz
+Use command "tar -xvzf Chess_V1.0_src.tar.gz"
+Use command "cd Chess_V1.0_src.tar.gz"
+Use command "make"
+Use command “cd bin”
+Use command "./chess"
